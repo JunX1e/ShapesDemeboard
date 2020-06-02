@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShapesDemo-remote.iml" filepath="$PROJECT_DIR$/ShapesDemo-remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShapesDemoBoard.Core/ShapesDemoBoard.Core.iml" filepath="$PROJECT_DIR$/ShapesDemoBoard.Core/ShapesDemoBoard.Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShapesDemoClient/ShapesDemoClient.iml" filepath="$PROJECT_DIR$/ShapesDemoClient/ShapesDemoClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShapesDemoServer/ShapesDemoServer.iml" filepath="$PROJECT_DIR$/ShapesDemoServer/ShapesDemoServer.iml" />
+    </modules>
+  </component>
+</project>

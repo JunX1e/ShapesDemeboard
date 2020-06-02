@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WhiteboardCore">
+    <output-path>$PROJECT_DIR$/out/artifacts/WhiteboardCore</output-path>
+    <root id="archive" name="WhiteboardCore.jar">
+      <element id="module-output" name="ShapesDemoBoard.Core" />
+    </root>
+  </artifact>
+</component>
